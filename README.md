@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/buker-vetor-kichu-ekta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Buker Vetor Kichu Ekta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buker-vetor-kichu-ekta/) |
+| **Get License** | [Obtain a Music License for Buker Vetor Kichu Ekta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buker-vetor-kichu-ekta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> বুকের ভেতর কিছু একটা কাঁপছে সারারাত
+> অন্ধকারে খুঁজছে তোমায় আমার দুটি হাত
+> নেশায় ভরা তোমার চোখে ডাকছে আমায় কাছে
+> আগুনের এই উষ্ণতায় মন যে আজ বাঁচে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
