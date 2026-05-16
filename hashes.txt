@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Buker Vetor Kichu Ekta
+
+This log tracks the cryptographic history and versioning for the song **Buker Vetor Kichu Ekta** (buker-vetor-kichu-ekta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T06:16:27.165524 | `v1` | `f8cbbd1a126a3f2f3ec3b5a9f642f653f243a6393c0908741841a0593c3ba9a4` | `8589ae277a11fe1b88be2afcc4552b958c3d5c43be92fef355b4513093fc16c5` | `2026-05-16_buker-vetor-kichu-ekta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

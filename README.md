@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/buker-vetor-kichu-ekta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Buker Vetor Kichu Ekta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buker-vetor-kichu-ekta/) |
+| **Get License** | [License this song: Buker Vetor Kichu Ekta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buker-vetor-kichu-ekta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f8cbbd1a126a3f2f3ec3b5a9f642f653f243a6393c0908741841a0593c3ba9a4` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
